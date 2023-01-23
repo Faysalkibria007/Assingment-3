@@ -1,0 +1,20 @@
+body{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.banner-image{
+    background-image: url("./images/banner.png");
+    padding: 200px 0px;
+    margin: auto;
+    width: 1200px;
+    background-repeat: no-repeat;
+}
+.text{
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+.text-2{
+    margin-top: ;
+    text-align: center;
+}
