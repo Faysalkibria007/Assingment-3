@@ -8,6 +8,7 @@ body{
     margin: auto;
     width: 1200px;
     background-repeat: no-repeat;
+    margin-top: 50px;
 }
 .text{
     color: aliceblue;
@@ -15,6 +16,25 @@ body{
     align-items: center;
 }
 .text-2{
-    margin-top: ;
+    margin-top: 50px;
     text-align: center;
+}
+.middle{
+    margin-top: 50px;
+    display: flex;
+   
+    text-align: center;
+    height: 400px;
+
+}
+.middle-2{
+    display: flex;
+    text-align: center;
+    height: 400px;
+}
+.middle-3{
+    background-color: #E7E7E7;
+}
+.carousel{
+    width: 100%;
 }
